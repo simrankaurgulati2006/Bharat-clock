@@ -9,4 +9,4 @@ Real-time clock updates every second.
 
 **Technologies Used-**
 React: A JavaScript library for building user interfaces.
-Vite: A fast, modern build tool for frontend development.
+Vite: A fast, modern build tool for frontend development
